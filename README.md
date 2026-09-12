@@ -6,10 +6,13 @@ to estimated geodetic parameters.
 
 Developed at the **Institut für Erdmessung (IfE), Leibniz University Hannover**.
 
-> **Status: release in preparation.** The programs are finished and in testing.
-> Downloads are published here and on Zenodo from **16 September 2026**, to
+> **Status: release in progress.** The launcher package is archived on Zenodo and
+> citable now. The individual programs follow from **16 September 2026**, to
 > coincide with the presentation at Frontiers of Geodetic Science (INTERGEO 2026,
-> Munich). This repository currently holds the description and the licence only.
+> Munich).
+>
+> **PCC-Suite on Zenodo:** [10.5281/zenodo.22722195](https://doi.org/10.5281/zenodo.22722195)
+> (this DOI always resolves to the newest version)
 
 ## Why it exists
 
@@ -62,9 +65,16 @@ real PPP does and this tool deliberately does not.
 
 ## Repositories
 
-Each program has its own repository. PCC-Explorer is at
-[J-kroeger/pcc-explorer](https://github.com/J-kroeger/pcc-explorer); links to
-the remaining repositories are added here as they are published.
+Each program has its own repository, so you can take only the one you need.
+
+| Program | Repository |
+|---|---|
+| PCC-Explorer | [J-kroeger/pcc-explorer](https://github.com/J-kroeger/pcc-explorer) |
+| PCC-Viewer | [pcc-viewer](https://github.com/AmrFawzy-NavEng/pcc-viewer) |
+| ATX-Converter | [atx-converter](https://github.com/AmrFawzy-NavEng/atx-converter) |
+| ATX-Scanner | [atx-scanner](https://github.com/AmrFawzy-NavEng/atx-scanner) |
+| RINEX-Masker | [rinex-masker](https://github.com/AmrFawzy-NavEng/rinex-masker) |
+| RINEX-Adapter | [rinex-adapter](https://github.com/AmrFawzy-NavEng/rinex-adapter) |
 
 Archived releases and DOIs are gathered in the Zenodo community
 [Open Source Software Packages for GNSS Data Processing](https://zenodo.org/communities/gnss-open-source-solutions).
@@ -97,4 +107,9 @@ can ask not to be reminded again.
 
 ## Contact
 
-Amr Fawzy, Institut für Erdmessung (IfE), Leibniz University Hannover
+**Dr.-Ing. Johannes Kröger**
+Institut für Erdmessung (IfE), Leibniz Universität Hannover
+Schneiderberg 50, D-30167 Hannover
+
+Email: [kroeger@ife.uni-hannover.de](mailto:kroeger@ife.uni-hannover.de)
+Web: [www.ife.uni-hannover.de](https://www.ife.uni-hannover.de)
