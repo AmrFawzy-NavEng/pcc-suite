@@ -6,10 +6,9 @@ to estimated geodetic parameters.
 
 Developed at the **Institut für Erdmessung (IfE), Leibniz University Hannover**.
 
-> **Status: release in progress.** The launcher package is archived on Zenodo and
-> citable now. The individual programs follow from **16 September 2026**, to
-> coincide with the presentation at Frontiers of Geodetic Science (INTERGEO 2026,
-> Munich).
+> **The launcher package is archived on Zenodo and citable now.** The individual
+> programs are released in their own repositories, listed below, each with its
+> Windows package and its source code. Their Zenodo records follow.
 >
 > **PCC-Suite on Zenodo:** [10.5281/zenodo.22722195](https://doi.org/10.5281/zenodo.22722195)
 > (this DOI always resolves to the newest version)
@@ -70,11 +69,11 @@ Each program has its own repository, so you can take only the one you need.
 | Program | Repository |
 |---|---|
 | PCC-Explorer | [J-kroeger/pcc-explorer](https://github.com/J-kroeger/pcc-explorer) |
-| PCC-Viewer | [pcc-viewer](https://github.com/AmrFawzy-NavEng/pcc-viewer) |
-| ATX-Converter | [atx-converter](https://github.com/AmrFawzy-NavEng/atx-converter) |
-| ATX-Scanner | [atx-scanner](https://github.com/AmrFawzy-NavEng/atx-scanner) |
-| RINEX-Masker | [rinex-masker](https://github.com/AmrFawzy-NavEng/rinex-masker) |
-| RINEX-Adapter | [rinex-adapter](https://github.com/AmrFawzy-NavEng/rinex-adapter) |
+| PCC-Viewer | [pcc-viewer](https://github.com/J-kroeger/pcc-viewer) |
+| ATX-Converter | [atx-converter](https://github.com/J-kroeger/atx-converter) |
+| ATX-Scanner | [atx-scanner](https://github.com/J-kroeger/atx-scanner) |
+| RINEX-Masker | [rinex-masker](https://github.com/J-kroeger/rinex-masker) |
+| RINEX-Adapter | [rinex-adapter](https://github.com/J-kroeger/rinex-adapter) |
 
 Archived releases and DOIs are gathered in the Zenodo community
 [Open Source Software Packages for GNSS Data Processing](https://zenodo.org/communities/gnss-open-source-solutions).
